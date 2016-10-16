@@ -1,0 +1,6 @@
+D:\فديوهات\C#\1 مشاريعي\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+D:\فديوهات\C#\1 مشاريعي\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+D:\فديوهات\C#\1 مشاريعي\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+D:\فديوهات\C#\1 مشاريعي\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+D:\فديوهات\C#\1 مشاريعي\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+D:\فديوهات\C#\1 مشاريعي\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
