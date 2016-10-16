@@ -1,0 +1,6 @@
+D:\فديوهات\C#\1 مشاريعي\FirstVariable\FirstVariable\bin\Debug\FirstVariable.exe.config
+D:\فديوهات\C#\1 مشاريعي\FirstVariable\FirstVariable\bin\Debug\FirstVariable.exe
+D:\فديوهات\C#\1 مشاريعي\FirstVariable\FirstVariable\bin\Debug\FirstVariable.pdb
+D:\فديوهات\C#\1 مشاريعي\FirstVariable\FirstVariable\obj\Debug\FirstVariable.csprojResolveAssemblyReference.cache
+D:\فديوهات\C#\1 مشاريعي\FirstVariable\FirstVariable\obj\Debug\FirstVariable.exe
+D:\فديوهات\C#\1 مشاريعي\FirstVariable\FirstVariable\obj\Debug\FirstVariable.pdb
