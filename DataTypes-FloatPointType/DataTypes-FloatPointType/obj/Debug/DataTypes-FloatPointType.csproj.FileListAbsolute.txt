@@ -1,0 +1,6 @@
+D:\فديوهات\C#\1 مشاريعي\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.exe.config
+D:\فديوهات\C#\1 مشاريعي\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.exe
+D:\فديوهات\C#\1 مشاريعي\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.pdb
+D:\فديوهات\C#\1 مشاريعي\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.csprojResolveAssemblyReference.cache
+D:\فديوهات\C#\1 مشاريعي\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.exe
+D:\فديوهات\C#\1 مشاريعي\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.pdb
